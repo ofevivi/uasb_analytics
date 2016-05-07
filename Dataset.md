@@ -1,6 +1,6 @@
 #Dataset
 
-El Dataset elegido, se trata de un conjunto de datos *ficticios* que contiene **información de los clientes de un Banco "X"**.
+El Dataset elegido, se trata de un conjunto de *datos ficticios* que contiene **información de los clientes de un Banco "X"**.
 
 La información es recogida por el Banco, siempre que sea posible, con el fin de permitirles mejorar su modelo de negocio y predecir el comportamiento de sus clientes.
 
